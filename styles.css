@@ -1,0 +1,38 @@
+.jumbotron {
+    text-align: center;
+    background: none;
+    padding-top: 30px ;
+    padding-bottom: 2px;
+}
+
+.sectionLight {
+    background-color: #eceeef;
+    padding: 0.2rem;
+}
+
+.dropdown-item:hover  {
+    text-decoration: underline;
+}
+
+.cardrow {
+    margin-top: 20px;
+}
+
+.nav-link:active {
+    text-decoration: underline;
+    
+}
+
+.card {
+    border-radius: 7px;
+}
+footer {
+    margin-top: 10px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+ 
+}
